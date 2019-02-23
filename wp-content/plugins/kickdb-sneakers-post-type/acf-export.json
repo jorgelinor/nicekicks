@@ -1,0 +1,357 @@
+[
+    {
+        "key": "group_5ac6a0ae53dcf",
+        "title": "Sneaker Info",
+        "fields": [
+            {
+                "key": "field_5ac77dcf04f63",
+                "label": "Brand",
+                "name": "brand",
+                "type": "select",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "choices": {
+                    "Adidas": "Adidas",
+                    "Asics": "Asics",
+                    "Balenciaga": "Balenciaga",
+                    "Converse": "Converse",
+                    "Gucci": "Gucci",
+                    "Jordan": "Jordan",
+                    "Kith": "Kith",
+                    "New Balance": "New Balance",
+                    "Nike": "Nike",
+                    "Puma": "Puma",
+                    "Reebok": "Reebok",
+                    "Supreme": "Supreme",
+                    "Under Armour": "Under Armour",
+                    "Vans": "Vans",
+                    "Yeezy": "Yeezy"
+                },
+                "default_value": [],
+                "allow_null": 0,
+                "multiple": 0,
+                "ui": 0,
+                "ajax": 0,
+                "return_format": "value",
+                "placeholder": ""
+            },
+            {
+                "key": "field_5ac6a0ca729f1",
+                "label": "Model",
+                "name": "model",
+                "type": "autocomplete",
+                "instructions": "Air Max 93, Ultraboost 3.0, Air VaporMax Plus",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "font_size": 14
+            },
+            {
+                "key": "field_5ae9d485da7af",
+                "label": "Hype",
+                "name": "hype",
+                "type": "true_false",
+                "instructions": "Only hype stuff shows on the release dates calendar",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "message": "",
+                "default_value": 0,
+                "ui": 1,
+                "ui_on_text": "",
+                "ui_off_text": ""
+            },
+            {
+                "key": "field_5ac78246c80fa",
+                "label": "Colorway",
+                "name": "colorway",
+                "type": "text",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_5ac77ddf04f64",
+                "label": "Style Code",
+                "name": "style_code",
+                "type": "text",
+                "instructions": "Product Number, Style Code, SKU, etc. Examples: CP9718, 897815-100, 883274-400-65, VN0A344LOQT.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_5ac77df904f65",
+                "label": "Price",
+                "name": "price",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": "",
+                "step": ""
+            },
+            {
+                "key": "field_5ac77e1b04f66",
+                "label": "Release Date Type",
+                "name": "release_date_type",
+                "type": "radio",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "choices": {
+                    "Calendar Date": "Calendar Date",
+                    "Text Date": "Text Date"
+                },
+                "allow_null": 0,
+                "other_choice": 0,
+                "save_other_choice": 0,
+                "default_value": "Calendar Date",
+                "layout": "vertical",
+                "return_format": "value"
+            },
+            {
+                "key": "field_5ac77e8204f67",
+                "label": "Calendar Release Date",
+                "name": "calendar_release_date",
+                "type": "date_picker",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_5ac77e1b04f66",
+                            "operator": "==",
+                            "value": "Calendar Date"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "display_format": "m\/d\/Y",
+                "return_format": "Y-m-d",
+                "first_day": 1
+            },
+            {
+                "key": "field_5ac77eb404f68",
+                "label": "Text Release Date",
+                "name": "text_release_date",
+                "type": "text",
+                "instructions": "Use this when the release date is not on a specific day. Examples: \"April\", \"Summer 2018\", \"TBD\".",
+                "required": 1,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_5ac77e1b04f66",
+                            "operator": "==",
+                            "value": "Text Date"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_5ac77f2504f69",
+                "label": "Images",
+                "name": "images",
+                "type": "gallery",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "min": 1,
+                "max": "",
+                "insert": "append",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": ""
+            },
+            {
+                "key": "field_5ac77f5904f6a",
+                "label": "Purchase Links",
+                "name": "purchase_links",
+                "type": "wysiwyg",
+                "instructions": "Links to purchase the sneakers. Example: https:\/\/www.jdsports.co.uk\/product\/white-adidas-ultra-boost\/051046\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            },
+            {
+                "key": "field_5ac7851a0cc37",
+                "label": "Product Description",
+                "name": "product_description",
+                "type": "wysiwyg",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "kickdb_sneakers"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    },
+    {
+        "key": "group_5aca7f44cc786",
+        "title": "Related Posts",
+        "fields": [
+            {
+                "key": "field_5aca7f4fe69ed",
+                "label": "Related Posts",
+                "name": "related_posts",
+                "type": "relationship",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "post_type": [],
+                "taxonomy": [],
+                "filters": [
+                    "search",
+                    "post_type",
+                    "taxonomy"
+                ],
+                "elements": "",
+                "min": "",
+                "max": "",
+                "return_format": "object"
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "page"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "kickdb_sneakers"
+                }
+            ]
+        ],
+        "menu_order": 1,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]

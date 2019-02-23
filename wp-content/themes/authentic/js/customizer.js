@@ -1,0 +1,17 @@
+( function( $ ) {
+
+  jQuery( document ).ready( function( $ ) {
+
+    // Collapse all collapsibles.
+    $( '.customize-collapsible' ).closest( 'li[id*="_collapsible_"]' ).toggleClass( 'customize-control-collapsed' );
+    $( '.customize-collapsible' ).closest( 'li[id*="_collapsible_"]' ).nextUntil( 'li[id*="_collapsible_"]' ).toggleClass( 'customize-control-hidden' );
+
+    // Expand on click.
+    $( '.customize-collapsible' ).click( function() {
+      $( this ).closest( 'li[id*="_collapsible_"]' ).toggleClass( 'customize-control-collapsed' );
+      $( this ).closest( 'li[id*="_collapsible_"]' ).nextUntil( 'li[id*="_collapsible_"]' ).toggleClass( 'customize-control-hidden' );
+    } );
+
+  } );
+
+} )( jQuery );

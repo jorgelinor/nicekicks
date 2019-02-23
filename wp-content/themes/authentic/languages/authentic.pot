@@ -1,0 +1,2115 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Authentic\n"
+"POT-Creation-Date: 2017-05-23 14:47+0300\n"
+"PO-Revision-Date: 2016-04-12 15:31+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: .sass-cache\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+"X-Poedit-SearchPathExcluded-4: framework/includes/classes\n"
+"X-Poedit-SearchPathExcluded-5: framework/includes/kirki\n"
+
+#: 404.php:33
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:25 framework/post-meta.php:130
+msgid "One comment"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/arrays.php:19
+msgid "Extra Large"
+msgstr ""
+
+#: framework/arrays.php:27
+msgid "Large Horizontal"
+msgstr ""
+
+#: framework/arrays.php:35
+msgid "Large Vertical"
+msgstr ""
+
+#: framework/arrays.php:43
+msgid "Large Square"
+msgstr ""
+
+#: framework/arrays.php:51
+msgid "Medium Uncropped"
+msgstr ""
+
+#: framework/arrays.php:59
+msgid "Medium Horizontal"
+msgstr ""
+
+#: framework/arrays.php:67
+msgid "Medium Vertical"
+msgstr ""
+
+#: framework/arrays.php:75
+msgid "Medium Square"
+msgstr ""
+
+#: framework/arrays.php:83
+msgid "Small Square"
+msgstr ""
+
+#: framework/arrays.php:109
+msgid "No Image"
+msgstr ""
+
+#: framework/arrays.php:113 framework/basic-plugins.php:87
+#: framework/basic-plugins.php:121
+#: framework/custom-fields/custom-fields.php:362
+#: framework/custom-fields/custom-fields.php:427
+#: framework/custom-fields/custom-fields.php:514
+#: framework/customizer/theme-mods.php:2598
+#: framework/customizer/theme-mods.php:3572
+#: framework/customizer/theme-mods.php:6285 framework/dashboard.php:126
+msgid "Default"
+msgstr ""
+
+#: framework/arrays.php:117 framework/custom-fields/custom-fields.php:367
+#: framework/custom-fields/custom-fields.php:519
+#: framework/customizer/theme-mods.php:3959
+#: framework/customizer/theme-mods.php:4817
+#: framework/customizer/theme-mods.php:6243
+#: framework/customizer/theme-mods.php:6852
+msgid "Large"
+msgstr ""
+
+#: framework/arrays.php:118
+msgid "Medium"
+msgstr ""
+
+#: framework/arrays.php:119 framework/widgets/widget-posts.php:270
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/arrays.php:164
+msgid "All Posts"
+msgstr ""
+
+#: framework/arrays.php:165 framework/custom-content.php:112
+#: framework/customizer/theme-mods.php:1090
+#: framework/customizer/theme-mods.php:4466
+#: framework/widgets/widget-posts.php:310
+#: framework/widgets/widget-posts.php:337
+msgid "Category"
+msgstr ""
+
+#: framework/arrays.php:166
+msgid "Tag"
+msgstr ""
+
+#: framework/arrays.php:170 framework/widgets/widget-posts.php:360
+msgid "Featured Posts"
+msgstr ""
+
+#: framework/arrays.php:182 framework/arrays.php:233
+msgid "Facebook"
+msgstr ""
+
+#: framework/arrays.php:183 framework/arrays.php:263
+msgid "Twitter"
+msgstr ""
+
+#: framework/arrays.php:184 framework/arrays.php:235
+msgid "Google Plus"
+msgstr ""
+
+#: framework/arrays.php:185 framework/arrays.php:238
+#: framework/customizer/theme-mods.php:4403
+#: framework/customizer/theme-mods.php:4437
+msgid "Instagram"
+msgstr ""
+
+#: framework/arrays.php:186 framework/arrays.php:247
+msgid "Pinterest"
+msgstr ""
+
+#: framework/arrays.php:187 framework/arrays.php:269
+msgid "YouTube"
+msgstr ""
+
+#: framework/arrays.php:188 framework/arrays.php:266
+msgid "Vimeo"
+msgstr ""
+
+#: framework/arrays.php:189 framework/arrays.php:262
+msgid "Tumblr"
+msgstr ""
+
+#: framework/arrays.php:190 framework/arrays.php:240
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/arrays.php:191 framework/arrays.php:230
+msgid "Dribbble"
+msgstr ""
+
+#: framework/arrays.php:192 framework/arrays.php:220
+msgid "Bloglovin"
+msgstr ""
+
+#: framework/arrays.php:193 framework/arrays.php:219
+msgid "Behance"
+msgstr ""
+
+#: framework/arrays.php:194
+msgid "GitHub"
+msgstr ""
+
+#: framework/arrays.php:195
+msgid "SoundCloud"
+msgstr ""
+
+#: framework/arrays.php:196 framework/arrays.php:259
+msgid "Spotify"
+msgstr ""
+
+#: framework/arrays.php:197 framework/arrays.php:267
+msgid "Vkontakte"
+msgstr ""
+
+#: framework/arrays.php:198 framework/arrays.php:254
+msgid "RSS"
+msgstr ""
+
+#: framework/arrays.php:211
+msgid "Angle Down"
+msgstr ""
+
+#: framework/arrays.php:212
+msgid "Angle Left"
+msgstr ""
+
+#: framework/arrays.php:213
+msgid "Angle Right"
+msgstr ""
+
+#: framework/arrays.php:214
+msgid "Angle Up"
+msgstr ""
+
+#: framework/arrays.php:215
+msgid "Arrow Down"
+msgstr ""
+
+#: framework/arrays.php:216
+msgid "Arrow Left"
+msgstr ""
+
+#: framework/arrays.php:217
+msgid "Arrow Right"
+msgstr ""
+
+#: framework/arrays.php:218
+msgid "Arrow Up"
+msgstr ""
+
+#: framework/arrays.php:221
+msgid "Chevron Down"
+msgstr ""
+
+#: framework/arrays.php:222
+msgid "Chevron Left"
+msgstr ""
+
+#: framework/arrays.php:223
+msgid "Chevron Right"
+msgstr ""
+
+#: framework/arrays.php:224
+msgid "Chevron Up"
+msgstr ""
+
+#: framework/arrays.php:225
+msgid "Circle Plus"
+msgstr ""
+
+#: framework/arrays.php:226
+msgid "Clock"
+msgstr ""
+
+#: framework/arrays.php:227
+msgid "Cross"
+msgstr ""
+
+#: framework/arrays.php:228
+msgid "Delete"
+msgstr ""
+
+#: framework/arrays.php:229
+msgid "Diamond"
+msgstr ""
+
+#: framework/arrays.php:231
+msgid "Ellipsis"
+msgstr ""
+
+#: framework/arrays.php:232
+msgid "Eye"
+msgstr ""
+
+#: framework/arrays.php:234
+msgid "Feed"
+msgstr ""
+
+#: framework/arrays.php:236
+msgid "Heart"
+msgstr ""
+
+#: framework/arrays.php:237 framework/customizer/theme-mods.php:2583
+#: framework/customizer/theme-mods.php:3563
+#: framework/customizer/theme-mods.php:3845
+#: framework/customizer/theme-mods.php:3854
+#: framework/customizer/theme-mods.php:4264
+#: framework/customizer/theme-mods.php:4272
+msgid "Image"
+msgstr ""
+
+#: framework/arrays.php:239
+msgid "Line"
+msgstr ""
+
+#: framework/arrays.php:241
+msgid "Mail"
+msgstr ""
+
+#: framework/arrays.php:242
+msgid "Map Marker"
+msgstr ""
+
+#: framework/arrays.php:243 framework/arrays.php:334
+#: framework/customizer/theme-mods.php:2141
+#: framework/customizer/theme-mods.php:2307
+#: framework/customizer/theme-mods.php:2914
+#: framework/customizer/theme-mods.php:3242
+msgid "Menu"
+msgstr ""
+
+#: framework/arrays.php:244
+msgid "Messenger"
+msgstr ""
+
+#: framework/arrays.php:245
+msgid "Minus"
+msgstr ""
+
+#: framework/arrays.php:246
+msgid "Phone"
+msgstr ""
+
+#: framework/arrays.php:248
+msgid "Plus"
+msgstr ""
+
+#: framework/arrays.php:249
+msgid "Pocket"
+msgstr ""
+
+#: framework/arrays.php:250
+msgid "Repeat"
+msgstr ""
+
+#: framework/arrays.php:251 framework/basic-plugins.php:226
+msgid "Reply"
+msgstr ""
+
+#: framework/arrays.php:252 framework/basic-plugins.php:233
+msgid "Retweet"
+msgstr ""
+
+#: framework/arrays.php:253
+msgid "Ribbon"
+msgstr ""
+
+#: framework/arrays.php:255 framework/arrays.php:324
+#: framework/customizer/theme-mods.php:3535 searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: framework/arrays.php:256 template-parts/loop/content.php:142
+msgid "Share"
+msgstr ""
+
+#: framework/arrays.php:257
+msgid "Soundcloud"
+msgstr ""
+
+#: framework/arrays.php:258
+msgid "Speech Bubble"
+msgstr ""
+
+#: framework/arrays.php:260
+msgid "StumbleUpon"
+msgstr ""
+
+#: framework/arrays.php:261
+msgid "Telegram"
+msgstr ""
+
+#: framework/arrays.php:264
+msgid "Viber"
+msgstr ""
+
+#: framework/arrays.php:265
+msgid "Video"
+msgstr ""
+
+#: framework/arrays.php:268
+msgid "WhatsApp"
+msgstr ""
+
+#: framework/arrays.php:323
+msgid "Off-Сanvas Toggle"
+msgstr ""
+
+#: framework/arrays.php:325
+msgid "Social Accounts"
+msgstr ""
+
+#: framework/arrays.php:326
+msgid "Button"
+msgstr ""
+
+#: framework/arrays.php:327 framework/customizer/theme-mods.php:2163
+#: framework/customizer/theme-mods.php:2329
+#: framework/customizer/theme-mods.php:2941
+#: framework/customizer/theme-mods.php:3276
+msgid "HTML"
+msgstr ""
+
+#: framework/arrays.php:328 framework/custom-fields/custom-fields.php:245
+#: framework/custom-fields/custom-fields.php:363
+#: framework/custom-fields/custom-fields.php:515
+#: framework/customizer/theme-mods.php:3565
+#: framework/customizer/theme-mods.php:3847
+#: framework/customizer/theme-mods.php:3955
+#: framework/customizer/theme-mods.php:6239
+#: framework/customizer/theme-mods.php:6848
+msgid "None"
+msgstr ""
+
+#: framework/assets.php:42 template-parts/loop/archive.php:88
+msgid "Next"
+msgstr ""
+
+#: framework/assets.php:43 template-parts/loop/archive.php:87
+msgid "Previous"
+msgstr ""
+
+#: framework/basic-plugins.php:32
+msgid "Post Sidebar"
+msgstr ""
+
+#: framework/basic-plugins.php:42
+msgid "Before Content"
+msgstr ""
+
+#: framework/basic-plugins.php:53
+msgid "After Content"
+msgstr ""
+
+#: framework/basic-plugins.php:64 framework/custom-fields/custom-fields.php:150
+msgid "Post Archives"
+msgstr ""
+
+#: framework/basic-plugins.php:90
+msgid "Bold"
+msgstr ""
+
+#: framework/basic-plugins.php:93 framework/customizer/color-palettes.php:17
+msgid "Monochrome"
+msgstr ""
+
+#: framework/basic-plugins.php:124
+msgid "2 columns"
+msgstr ""
+
+#: framework/basic-plugins.php:127
+msgid "3 columns"
+msgstr ""
+
+#: framework/basic-plugins.php:130
+msgid "4 columns"
+msgstr ""
+
+#: framework/basic-plugins.php:133
+msgid "5 columns"
+msgstr ""
+
+#: framework/basic-plugins.php:136
+msgid "6 columns"
+msgstr ""
+
+#: framework/basic-plugins.php:139
+msgid "Horizontal List"
+msgstr ""
+
+#: framework/basic-plugins.php:165
+#: framework/custom-fields/custom-fields.php:303 framework/gallery.php:224
+#: framework/widgets/widget-posts.php:264
+msgid "Slider"
+msgstr ""
+
+#: framework/basic-plugins.php:239
+msgid "Favorite"
+msgstr ""
+
+#: framework/basic-plugins.php:260
+msgid "Follow"
+msgstr ""
+
+#: framework/basic-plugins.php:268
+msgid "No Twitter Found!"
+msgstr ""
+
+#: framework/basic-plugins.php:305
+msgid "Before WordPress comments"
+msgstr ""
+
+#: framework/basic-plugins.php:311
+msgid "After WordPress comments"
+msgstr ""
+
+#: framework/core-functions.php:349 framework/customizer/theme-mods.php:5431
+msgid "Trending Posts"
+msgstr ""
+
+#: framework/core-functions.php:360 framework/customizer/theme-mods.php:6442
+msgid "You May Also Like"
+msgstr ""
+
+#: framework/custom-content.php:20 framework/customizer/theme-mods.php:2439
+#: framework/customizer/theme-mods.php:2447
+msgid "Header"
+msgstr ""
+
+#: framework/custom-content.php:25
+#: framework/custom-fields/custom-fields.php:148
+#: framework/customizer/theme-mods.php:4694
+#: framework/customizer/theme-mods.php:4701 framework/init.php:221
+msgid "Post Slider"
+msgstr ""
+
+#: framework/custom-content.php:30
+#: framework/custom-fields/custom-fields.php:149
+#: framework/customizer/theme-mods.php:5074
+#: framework/customizer/theme-mods.php:5081 framework/init.php:222
+msgid "Post Tiles"
+msgstr ""
+
+#: framework/custom-content.php:35 framework/custom-content.php:85
+#: framework/customizer/theme-mods.php:5413
+#: framework/customizer/theme-mods.php:5420
+#: framework/customizer/theme-mods.php:6424
+#: framework/customizer/theme-mods.php:6431 framework/init.php:223
+msgid "Post Carousel"
+msgstr ""
+
+#: framework/custom-content.php:40
+msgid "Site Content"
+msgstr ""
+
+#: framework/custom-content.php:45
+msgid "Main"
+msgstr ""
+
+#: framework/custom-content.php:50 framework/custom-content.php:110
+msgid "Post"
+msgstr ""
+
+#: framework/custom-content.php:55
+#: framework/custom-fields/custom-fields.php:243
+#: framework/customizer/theme-mods.php:1034
+#: framework/customizer/theme-mods.php:1800
+msgid "Post Content"
+msgstr ""
+
+#: framework/custom-content.php:60 framework/custom-content.php:111
+msgid "Page"
+msgstr ""
+
+#: framework/custom-content.php:65
+msgid "Page Content"
+msgstr ""
+
+#: framework/custom-content.php:70 framework/customizer/theme-mods.php:6264
+#: framework/customizer/theme-mods.php:6271
+msgid "Post Author"
+msgstr ""
+
+#: framework/custom-content.php:75 framework/customizer/theme-mods.php:6401
+#: framework/customizer/theme-mods.php:6408
+msgid "Post Pagination"
+msgstr ""
+
+#: framework/custom-content.php:80 framework/customizer/theme-mods.php:2837
+#: framework/customizer/theme-mods.php:3144
+#: framework/customizer/theme-mods.php:4371
+#: framework/customizer/theme-mods.php:4380
+#: framework/customizer/theme-mods.php:4438
+#: framework/customizer/theme-mods.php:6346
+#: framework/customizer/theme-mods.php:6353
+#: framework/customizer/theme-mods.php:6364 framework/partials.php:277
+#: framework/template-tags.php:317
+#: template-parts/footer/footer-subscribe.php:11
+msgid "Subscribe"
+msgstr ""
+
+#: framework/custom-content.php:90 framework/customizer/theme-mods.php:4467
+#: framework/widgets/widget-posts.php:290
+msgid "Comments"
+msgstr ""
+
+#: framework/custom-content.php:95 framework/customizer/theme-mods.php:1214
+#: framework/customizer/theme-mods.php:4237
+msgid "Footer"
+msgstr ""
+
+#: framework/custom-content.php:109 framework/customizer/theme-mods.php:4565
+msgid "Homepage"
+msgstr ""
+
+#: framework/custom-content.php:113
+msgid "Archive"
+msgstr ""
+
+#: framework/custom-content.php:125
+msgid "Additional Content"
+msgstr ""
+
+#: framework/custom-content.php:130 framework/customizer/theme-mods.php:543
+#: framework/customizer/theme-mods.php:1487
+#: framework/customizer/theme-mods.php:2463
+msgid "General"
+msgstr ""
+
+#: framework/custom-content.php:138
+msgid "Load Google AdSense Scripts"
+msgstr ""
+
+#: framework/custom-content.php:139
+msgid "Enable this if you're using Google AdSense."
+msgstr ""
+
+#: framework/custom-content.php:169
+msgid "Before"
+msgstr ""
+
+#: framework/custom-content.php:179
+msgid "After"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:16
+msgid "Gallery"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:20
+msgid "Images"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:72
+#: framework/custom-fields/custom-fields.php:76
+msgid "Embed"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:131
+msgid "Video Background"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:135
+msgid "Location"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:147
+#: framework/custom-fields/custom-fields.php:244
+#: framework/custom-fields/custom-fields.php:346
+#: framework/custom-fields/custom-fields.php:474
+#: framework/custom-fields/custom-fields.php:502
+#: framework/customizer/theme-mods.php:3942
+#: framework/customizer/theme-mods.php:6216
+#: framework/customizer/theme-mods.php:6224
+#: framework/customizer/theme-mods.php:6825
+#: framework/customizer/theme-mods.php:6833
+msgid "Page Header"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:158
+msgid "Start Time"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:179
+msgid "End Time"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:227
+msgid "Media Options"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:231
+msgid "Media Location"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:287
+msgid "Gallery Options"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:291
+msgid "Gallery Type"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:304 framework/gallery.php:223
+msgid "Justified"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:350
+#: framework/customizer/theme-mods.php:2124
+#: framework/customizer/theme-mods.php:2290
+#: framework/customizer/theme-mods.php:2578
+#: framework/customizer/theme-mods.php:2813
+#: framework/customizer/theme-mods.php:3113
+#: framework/customizer/theme-mods.php:3558
+#: framework/customizer/theme-mods.php:3840
+#: framework/customizer/theme-mods.php:3950
+#: framework/customizer/theme-mods.php:3987
+#: framework/customizer/theme-mods.php:4259
+#: framework/customizer/theme-mods.php:4811
+#: framework/customizer/theme-mods.php:5722
+#: framework/customizer/theme-mods.php:6233
+#: framework/customizer/theme-mods.php:6280
+#: framework/customizer/theme-mods.php:6842
+msgid "Type"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:364
+#: framework/custom-fields/custom-fields.php:516
+#: framework/customizer/theme-mods.php:3956
+#: framework/customizer/theme-mods.php:6240
+#: framework/customizer/theme-mods.php:6849 framework/dashboard.php:48
+msgid "Simple"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:365
+#: framework/custom-fields/custom-fields.php:517
+#: framework/customizer/theme-mods.php:3957
+#: framework/customizer/theme-mods.php:6241
+#: framework/customizer/theme-mods.php:6850
+msgid "Small"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:366
+#: framework/custom-fields/custom-fields.php:518
+#: framework/customizer/theme-mods.php:3958
+#: framework/customizer/theme-mods.php:6242
+#: framework/customizer/theme-mods.php:6851
+msgid "Wide"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:411
+msgid "Layout Options"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:415
+#: framework/customizer/theme-mods.php:1937
+#: framework/customizer/theme-mods.php:4579
+#: framework/customizer/theme-mods.php:4587
+#: framework/customizer/theme-mods.php:6078
+#: framework/customizer/theme-mods.php:6086
+#: framework/customizer/theme-mods.php:6687
+#: framework/customizer/theme-mods.php:6695
+msgid "Page Layout"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:428
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:429
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:430
+#: framework/customizer/theme-mods.php:2058
+#: framework/customizer/theme-mods.php:2504
+#: framework/customizer/theme-mods.php:3474
+#: framework/customizer/theme-mods.php:5224
+#: framework/customizer/theme-mods.php:5574
+msgid "Fullwidth"
+msgstr ""
+
+#: framework/custom-fields/custom-fields.php:478
+msgid "Featured Image"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:87
+msgid "Lapis Blue"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:157
+msgid "Electric Blue"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:227
+msgid "Blue Iris"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:297
+msgid "Pale Dogwood"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:367
+msgid "Hazelnut"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:437
+msgid "Island Paradise"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:507
+msgid "Niagara"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:577
+msgid "Pink Yarrow"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:647
+msgid "Mimosa"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:717
+msgid "Kale"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:787
+msgid "Greenery"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:857
+msgid "Emerald"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:927
+msgid "Flame"
+msgstr ""
+
+#: framework/customizer/color-palettes.php:997
+msgid "Dark"
+msgstr ""
+
+#: framework/customizer/kirki.php:25
+msgid "Lifestyle Blog & Magazine WordPress Theme"
+msgstr ""
+
+#: framework/customizer/options.php:18
+msgid "Advanced"
+msgstr ""
+
+#: framework/customizer/options.php:31
+msgid "Enable Custom Fields menu item"
+msgstr ""
+
+#: framework/customizer/options.php:46
+msgid "Save customization styles to external stylesheet"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:38
+msgid "Colors"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:49
+msgid "Presets"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:57
+msgid "Color Presets"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:58
+msgid ""
+"Please note: selecting a pre-defined color preset will reset all current "
+"color settings."
+msgstr ""
+
+#: framework/customizer/theme-mods.php:74
+#: framework/customizer/theme-mods.php:1229
+#: framework/customizer/theme-mods.php:1495
+msgid "Base"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:82
+msgid "Body Background"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:103
+msgid "Main Text"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:119
+msgid "Secondary Text"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:139
+#: framework/customizer/theme-mods.php:620
+#: framework/customizer/theme-mods.php:734
+#: framework/customizer/theme-mods.php:915
+#: framework/customizer/theme-mods.php:959
+#: framework/customizer/theme-mods.php:1058
+#: framework/customizer/theme-mods.php:1288
+msgid "Links"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:159
+#: framework/customizer/theme-mods.php:636
+#: framework/customizer/theme-mods.php:750
+#: framework/customizer/theme-mods.php:931
+#: framework/customizer/theme-mods.php:975
+#: framework/customizer/theme-mods.php:1074
+#: framework/customizer/theme-mods.php:1308
+msgid "Links Hover"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:175
+#: framework/customizer/theme-mods.php:583
+#: framework/customizer/theme-mods.php:682
+#: framework/customizer/theme-mods.php:691
+#: framework/customizer/theme-mods.php:782
+#: framework/customizer/theme-mods.php:791
+#: framework/customizer/theme-mods.php:892
+#: framework/customizer/theme-mods.php:1007
+#: framework/customizer/theme-mods.php:1324 framework/dashboard.php:88
+msgid "Borders"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:203
+msgid "Accent"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:223
+#: framework/customizer/theme-mods.php:231
+#: framework/customizer/theme-mods.php:1582
+msgid "Headings"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:259
+msgid "Headings Links"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:275
+msgid "Headings Links Hover"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:295
+#: framework/customizer/theme-mods.php:1351
+#: framework/customizer/theme-mods.php:1557
+msgid "Buttons"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:310
+msgid "Primary Buttons"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:317
+#: framework/customizer/theme-mods.php:400
+#: framework/customizer/theme-mods.php:1252
+#: framework/customizer/theme-mods.php:1358
+#: framework/customizer/theme-mods.php:1374
+#: framework/customizer/theme-mods.php:2584
+#: framework/customizer/theme-mods.php:2668
+#: framework/customizer/theme-mods.php:2743
+#: framework/customizer/theme-mods.php:2835
+#: framework/customizer/theme-mods.php:3142
+#: framework/customizer/theme-mods.php:3564
+#: framework/customizer/theme-mods.php:3628
+#: framework/customizer/theme-mods.php:3846
+#: framework/customizer/theme-mods.php:3894
+#: framework/customizer/theme-mods.php:4265
+#: framework/customizer/theme-mods.php:4311
+#: framework/widgets/widget-about.php:139
+msgid "Text"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:333
+#: framework/customizer/theme-mods.php:416
+msgid "Text Hover"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:349
+#: framework/customizer/theme-mods.php:432
+#: framework/customizer/theme-mods.php:550
+#: framework/customizer/theme-mods.php:560
+#: framework/customizer/theme-mods.php:666
+#: framework/customizer/theme-mods.php:859
+#: framework/customizer/theme-mods.php:869
+#: framework/customizer/theme-mods.php:991
+#: framework/customizer/theme-mods.php:1236
+#: framework/customizer/theme-mods.php:1390 framework/dashboard.php:72
+#: framework/dashboard.php:118
+msgid "Background"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:370
+#: framework/customizer/theme-mods.php:448
+#: framework/customizer/theme-mods.php:815
+#: framework/customizer/theme-mods.php:1406
+msgid "Background Hover"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:393
+msgid "Secondary Buttons"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:468
+#: framework/customizer/theme-mods.php:2564
+#: framework/customizer/theme-mods.php:3551
+#: framework/customizer/theme-mods.php:3818
+#: framework/customizer/theme-mods.php:4252
+msgid "Logo"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:476
+#: framework/customizer/theme-mods.php:4378
+#: framework/customizer/theme-mods.php:5429
+#: framework/customizer/theme-mods.php:6323
+#: framework/customizer/theme-mods.php:6362
+#: framework/customizer/theme-mods.php:6440
+#: framework/widgets/widget-about.php:127
+#: framework/widgets/widget-author.php:168
+#: framework/widgets/widget-posts.php:255
+msgid "Title"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:492
+msgid "Title Hover"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:508
+msgid "Description"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:528
+#: framework/customizer/theme-mods.php:3446
+msgid "Navigation Bar"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:659
+msgid "Sub-Menus"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:727
+msgid "Sub-Menu Items"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:766
+msgid "Links Active"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:831
+msgid "Background Active"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:851
+#: framework/customizer/theme-mods.php:2014
+#: framework/customizer/theme-mods.php:2022
+#: framework/customizer/theme-mods.php:3779
+msgid "Top Bar"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:951
+#: framework/customizer/theme-mods.php:3764
+msgid "Off-Canvas Area"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1042
+msgid "Paragraph"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1106
+msgid "Category Hover"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1122
+msgid "Selection Text"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1142
+msgid "Selection Background"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1162
+#: framework/customizer/theme-mods.php:1849
+msgid "Blockquote"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1178
+msgid "Lead-Ins & Dropcaps"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1272
+#: framework/customizer/theme-mods.php:2205
+#: framework/customizer/theme-mods.php:2371
+#: framework/customizer/theme-mods.php:2995
+#: framework/customizer/theme-mods.php:3342
+#: framework/customizer/theme-mods.php:3711
+msgid "Titles"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1426
+#: framework/customizer/theme-mods.php:1874
+#: framework/customizer/theme-mods.php:4529
+msgid "Miscellaneous"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1434
+#: framework/customizer/theme-mods.php:2619
+#: framework/customizer/theme-mods.php:3588
+msgid "Overlay"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1453
+msgid "Overlay Hover"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1477
+msgid "Typography"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1515
+msgid "Small Text"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1536
+msgid "Large Text"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1590
+#: framework/customizer/theme-mods.php:5041
+#: framework/customizer/theme-mods.php:5341
+#: framework/customizer/theme-mods.php:5673
+#: framework/customizer/theme-mods.php:6644
+msgid "Heading"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1608
+msgid "Title Block"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1630
+msgid "Heading 1"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1648
+msgid "Heading 2"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1666
+msgid "Heading 3"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1684
+msgid "Heading 4"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1702
+msgid "Heading 5"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1720
+msgid "Heading 6"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1743
+msgid "Menus"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1751
+msgid "Menu Font"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1774
+msgid "Submenu Font"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1808 framework/dashboard.php:80
+msgid "Lead"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1829 framework/dashboard.php:45
+msgid "Drop Cap"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1882
+msgid "Posts Widget Number"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1901
+msgid "Search Form"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1926
+#: framework/customizer/theme-mods.php:2038
+#: framework/customizer/theme-mods.php:2477
+#: framework/customizer/theme-mods.php:3461
+#: framework/customizer/theme-mods.php:5191 framework/gallery.php:230
+#: framework/widgets/widget-posts.php:260
+msgid "Layout"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1945
+#: framework/customizer/theme-mods.php:4596
+#: framework/customizer/theme-mods.php:6095
+#: framework/customizer/theme-mods.php:6704
+msgid "Sidebar"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1959
+#: framework/customizer/theme-mods.php:4617
+msgid "Page Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:1975
+#: framework/customizer/theme-mods.php:4640
+#: framework/customizer/theme-mods.php:6139
+#: framework/customizer/theme-mods.php:6748
+msgid "Sidebar Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2052
+#: framework/customizer/theme-mods.php:2498
+#: framework/customizer/theme-mods.php:3468
+#: framework/customizer/theme-mods.php:5218
+#: framework/customizer/theme-mods.php:5568 framework/dashboard.php:85
+msgid "Container"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2057
+#: framework/customizer/theme-mods.php:2503
+#: framework/customizer/theme-mods.php:3473
+#: framework/customizer/theme-mods.php:4818
+#: framework/customizer/theme-mods.php:5223
+#: framework/customizer/theme-mods.php:5573
+msgid "Boxed"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2072
+#: framework/customizer/theme-mods.php:2518
+#: framework/customizer/theme-mods.php:2640
+#: framework/customizer/theme-mods.php:3481
+#: framework/customizer/theme-mods.php:4288
+#: framework/customizer/theme-mods.php:4908
+#: framework/customizer/theme-mods.php:5238
+#: framework/customizer/theme-mods.php:5588
+msgid "Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2088
+#: framework/customizer/theme-mods.php:2534
+#: framework/customizer/theme-mods.php:3497
+#: framework/customizer/theme-mods.php:3604
+#: framework/customizer/theme-mods.php:3786
+#: framework/customizer/theme-mods.php:3825
+#: framework/customizer/theme-mods.php:3870
+#: framework/customizer/theme-mods.php:4948
+#: framework/customizer/theme-mods.php:5266
+msgid "Height"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2110
+#: framework/customizer/theme-mods.php:2794
+msgid "Left Column"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2184
+#: framework/customizer/theme-mods.php:2350
+#: framework/customizer/theme-mods.php:2967
+#: framework/customizer/theme-mods.php:3309
+#: framework/customizer/theme-mods.php:3695
+msgid "Labels"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2226
+#: framework/customizer/theme-mods.php:2392
+#: framework/customizer/theme-mods.php:3023
+#: framework/customizer/theme-mods.php:3375
+#: framework/customizer/theme-mods.php:3727
+msgid "Counts"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2247
+#: framework/customizer/theme-mods.php:2413
+#: framework/customizer/theme-mods.php:3051
+#: framework/customizer/theme-mods.php:3408
+#: framework/customizer/theme-mods.php:3743
+msgid "Limit"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2248
+#: framework/customizer/theme-mods.php:2414
+#: framework/customizer/theme-mods.php:3052
+#: framework/customizer/theme-mods.php:3409
+#: framework/customizer/theme-mods.php:3744
+msgid "Number of social accounts."
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2276
+#: framework/customizer/theme-mods.php:3087
+msgid "Right Column"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2641
+#: framework/customizer/theme-mods.php:4289
+msgid ""
+"Input logo width in pixels. Please note, that the size of the image must be "
+"2x to look sharp on Retina screens."
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2689
+#: framework/customizer/theme-mods.php:2759
+#: framework/customizer/theme-mods.php:3644
+#: framework/customizer/theme-mods.php:3910
+#: framework/customizer/theme-mods.php:4327
+msgid "Font"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2729
+msgid "Site Description"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2861
+#: framework/customizer/theme-mods.php:3175
+msgid "Link"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:2887
+#: framework/customizer/theme-mods.php:3208
+msgid "Icon"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3512
+msgid "Alignment"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3517
+#: framework/customizer/theme-mods.php:4816
+msgid "Center"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3518 framework/dashboard.php:101
+#: framework/dashboard.php:136
+msgid "Left"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3519 framework/dashboard.php:106
+#: framework/dashboard.php:141
+msgid "Right"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3526
+msgid "Off-Canvas Toggle"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3605
+#: framework/customizer/theme-mods.php:3871
+msgid ""
+"Input logo height in pixels. Please note, that the size of the image must be "
+"2x to look sharp on Retina screens. Max height is 60px."
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3679
+#: framework/customizer/theme-mods.php:3686
+msgid "Social Icons"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3966
+msgid "Background Image"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:3979
+#: framework/customizer/theme-mods.php:5705
+#: framework/customizer/theme-mods.php:5713 framework/init.php:224
+msgid "Post Archive"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4002
+#: framework/customizer/theme-mods.php:5546
+#: framework/customizer/theme-mods.php:5744
+#: framework/customizer/theme-mods.php:6573
+msgid "Columns"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4029
+#: framework/customizer/theme-mods.php:5778
+msgid "Display first post as standard"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4047
+#: framework/customizer/theme-mods.php:5803
+msgid "Display post summary"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4056
+#: framework/customizer/theme-mods.php:5819
+msgid "Standard Post Summary Type"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4061
+#: framework/customizer/theme-mods.php:5824
+msgid "Excerpt"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4062
+#: framework/customizer/theme-mods.php:5825
+msgid "Full"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4090
+#: framework/customizer/theme-mods.php:5860
+msgid "Summary Length"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4091
+#: framework/customizer/theme-mods.php:5861
+msgid "Number of words in excerpt."
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4121
+#: framework/customizer/theme-mods.php:5898
+msgid "Display more button"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4130
+#: framework/customizer/theme-mods.php:5914
+msgid "Image Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4153
+#: framework/customizer/theme-mods.php:4875
+#: framework/customizer/theme-mods.php:5656
+#: framework/customizer/theme-mods.php:5944
+#: framework/customizer/theme-mods.php:6627
+msgid "Image Size"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4163
+#: framework/customizer/theme-mods.php:5961
+msgid "Pagination"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4168
+#: framework/customizer/theme-mods.php:5966
+msgid "Standard"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4169
+#: framework/customizer/theme-mods.php:5967 framework/load-more.php:28
+msgid "Load More"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4176
+#: framework/customizer/theme-mods.php:5981
+msgid "Infinite Load"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4192
+#: framework/customizer/theme-mods.php:6002
+msgid "Display widgets in archive"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4201
+#: framework/customizer/theme-mods.php:6018
+msgid "Display widgets after N-th post"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4217
+#: framework/customizer/theme-mods.php:6039
+msgid "Repeat widgets"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4355
+msgid "Footer Text"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4387
+#: framework/customizer/theme-mods.php:6378
+msgid "Message"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4389
+#: framework/customizer/theme-mods.php:6380 framework/partials.php:278
+#: template-parts/footer/footer-subscribe.php:12
+msgid "Subscribe now to our newsletter"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4410
+msgid "Instagram Username"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4426
+msgid "Arrangement"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4433
+msgid "Components"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4439
+msgid "Widgets"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4440
+msgid "Logo &amp; Navbar"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4452
+#: framework/customizer/theme-mods.php:4460
+#: framework/widgets/widget-posts.php:334
+msgid "Post Meta"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4465
+#: framework/customizer/theme-mods.php:4774
+#: framework/customizer/theme-mods.php:5154
+#: framework/customizer/theme-mods.php:5509
+#: framework/customizer/theme-mods.php:6536
+#: framework/widgets/widget-posts.php:288
+#: framework/widgets/widget-posts.php:340
+msgid "Date"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4468
+#: framework/widgets/widget-posts.php:346
+msgid "Reading Time"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4469
+#: framework/customizer/theme-mods.php:4775
+#: framework/customizer/theme-mods.php:5155
+#: framework/customizer/theme-mods.php:5510
+#: framework/customizer/theme-mods.php:6537
+#: framework/widgets/widget-posts.php:289
+#: framework/widgets/widget-posts.php:349
+msgid "Views"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4470
+#: framework/widgets/widget-author.php:22
+#: framework/widgets/widget-author.php:173
+#: framework/widgets/widget-posts.php:343
+msgid "Author"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4481
+msgid "Effects"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4489
+#: framework/customizer/theme-mods.php:4892
+#: framework/customizer/theme-mods.php:5325
+msgid "Parallax"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4498
+msgid "Posts Lazy Load"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4507
+msgid "Navbar Scroll"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4516
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4537
+msgid "Border Radius"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4586
+#: framework/customizer/theme-mods.php:5712
+#: framework/customizer/theme-mods.php:6085
+#: framework/customizer/theme-mods.php:6223
+#: framework/customizer/theme-mods.php:6694
+#: framework/customizer/theme-mods.php:6832
+msgid "Default Settings"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4587
+#: framework/customizer/theme-mods.php:5713
+#: framework/customizer/theme-mods.php:6086
+#: framework/customizer/theme-mods.php:6224
+#: framework/customizer/theme-mods.php:6695
+#: framework/customizer/theme-mods.php:6833
+msgid "You may change the default settings in Layout &rarr; "
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4710
+#: framework/customizer/theme-mods.php:5090
+#: framework/customizer/theme-mods.php:5445
+#: framework/customizer/theme-mods.php:6456
+msgid "Source"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4727
+#: framework/customizer/theme-mods.php:4748
+#: framework/customizer/theme-mods.php:5107
+#: framework/customizer/theme-mods.php:5128
+#: framework/customizer/theme-mods.php:5462
+#: framework/customizer/theme-mods.php:5483
+#: framework/customizer/theme-mods.php:6473
+#: framework/customizer/theme-mods.php:6510
+msgid "Slug"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4769
+#: framework/customizer/theme-mods.php:5149
+#: framework/customizer/theme-mods.php:5504
+#: framework/customizer/theme-mods.php:6531
+msgid "Order By"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4789
+#: framework/customizer/theme-mods.php:5169
+#: framework/customizer/theme-mods.php:5524
+#: framework/customizer/theme-mods.php:6551
+#: framework/widgets/widget-posts.php:305
+msgid "Time Frame"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4790
+#: framework/customizer/theme-mods.php:5170
+#: framework/customizer/theme-mods.php:5525
+#: framework/customizer/theme-mods.php:6552
+msgid ""
+"Input period of posts in English, i.e. &laquo;2 months&raquo;, &laquo;14 "
+"days&raquo; or even &laquo;1 year&raquo;"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4819
+msgid "Multiple"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4833
+msgid "Visible Slides"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4859
+#: framework/customizer/theme-mods.php:5640
+#: framework/customizer/theme-mods.php:6611
+msgid "Total Slides"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:4976
+#: framework/customizer/theme-mods.php:5289
+#: framework/customizer/theme-mods.php:5616
+#: framework/customizer/theme-mods.php:6595
+msgid "Padding"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:5004
+msgid "Auto Play"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:5020
+msgid "Time-Out"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:5366
+msgid "Secondary Heading"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6064
+msgid "Posts"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6116
+msgid "Sidebar Post Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6186
+msgid "Fullwidth Post Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6234
+msgid ""
+"You may also change the page header type on per post basis, when editing a "
+"post."
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6286
+msgid "Compact"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6307
+#: framework/customizer/theme-mods.php:6314
+msgid "Post Tags"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6325 framework/template-tags.php:214
+msgid "Related Topics"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6494
+msgid "Display posts from the current post's categories only"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6673
+msgid "Pages"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6725
+msgid "Sidebar Page Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6795
+msgid "Fullwidth Page Width"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6843
+msgid ""
+"You may also change the page header type on per page basis, when editing a "
+"page."
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6872
+msgid "Disable Pin It buttons"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6887
+msgid "Disable lightbox"
+msgstr ""
+
+#: framework/customizer/theme-mods.php:6919
+msgid "Widget Area"
+msgstr ""
+
+#: framework/dashboard.php:54
+msgid "Bordered"
+msgstr ""
+
+#: framework/dashboard.php:60
+msgid "Border Right"
+msgstr ""
+
+#: framework/dashboard.php:66
+msgid "Background Inverse"
+msgstr ""
+
+#: framework/dashboard.php:91
+msgid "Top"
+msgstr ""
+
+#: framework/dashboard.php:96
+msgid "Bottom"
+msgstr ""
+
+#: framework/dashboard.php:111
+msgid "All"
+msgstr ""
+
+#: framework/dashboard.php:121
+msgid "Inverse"
+msgstr ""
+
+#: framework/dashboard.php:133
+msgid "Float"
+msgstr ""
+
+#: framework/demo-import/customizer-demos.php:32
+#: framework/demo-import/customizer-demos.php:36
+msgid "Reset"
+msgstr ""
+
+#: framework/demo-import/customizer-demos.php:34
+msgid "Click the button to reset the customization settings for this theme."
+msgstr ""
+
+#: framework/demo-import/customizer-demos.php:43
+msgid "Select Demo"
+msgstr ""
+
+#: framework/demo-import/customizer-demos.php:62
+msgid "Import"
+msgstr ""
+
+#: framework/demo-import/customizer-demos.php:122
+msgid "Theme Demos"
+msgstr ""
+
+#: framework/demo-import/customizer-demos.php:250
+#: framework/demo-import/customizer-demos.php:382
+msgid ""
+"Attention! This will remove all customizations ever made via customizer to "
+"this theme! This action is irreversible!"
+msgstr ""
+
+#: framework/demo-import/customizer-demos.php:268
+#: framework/demo-import/customizer-demos.php:400
+msgid "Error server!"
+msgstr ""
+
+#: framework/demo-import/ocdi-filters.php:18
+#: framework/demo-import/ocdi-filters.php:19
+#: framework/demo-import/ocdi-filters.php:32
+msgid "Demo Content"
+msgstr ""
+
+#: framework/demo-import/ocdi-filters.php:45
+msgid "Demo Content Import"
+msgstr ""
+
+#: framework/demo-import/ocdi-filters.php:57
+msgid ""
+"Clicking the Import Demo Data button will import demo posts, pages, "
+"categories, comments, tags and widgets."
+msgstr ""
+
+#: framework/demo-import/ocdi-filters.php:58
+#, php-format
+msgid ""
+"You may switch between different Demos in the <a href=\"%s\">Customize</a> "
+"section."
+msgstr ""
+
+#: framework/filters.php:88
+msgid "Name"
+msgstr ""
+
+#: framework/filters.php:94
+msgid "Email"
+msgstr ""
+
+#: framework/filters.php:100
+msgid "Website"
+msgstr ""
+
+#: framework/filters.php:119
+msgid "Your Comment"
+msgstr ""
+
+#: framework/gallery.php:222
+msgid "Grid"
+msgstr ""
+
+#: framework/init.php:101
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/init.php:102
+msgid "Footer Menu"
+msgstr ""
+
+#: framework/init.php:115
+msgid "Default Sidebar"
+msgstr ""
+
+#: framework/init.php:124
+msgid "Off-canvas"
+msgstr ""
+
+#: framework/init.php:133
+msgid "Archives"
+msgstr ""
+
+#: framework/init.php:142
+#, php-format
+msgid "Footer Sidebar %d"
+msgstr ""
+
+#: framework/init.php:177 framework/init.php:183
+msgid "Featured Locations"
+msgstr ""
+
+#: framework/init.php:178
+msgid "Featured Location"
+msgstr ""
+
+#: framework/init.php:179
+msgid "All Locations"
+msgstr ""
+
+#: framework/init.php:225
+msgid "Posts Widget"
+msgstr ""
+
+#: framework/load-more.php:29
+msgid "Loading…"
+msgstr ""
+
+#: framework/partials.php:292 template-parts/footer/footer-subscribe.php:29
+msgid ""
+"Please install and activate Basic MailChimp plugin from Appearance → Install "
+"Plugins."
+msgstr ""
+
+#: framework/post-meta.php:104
+msgid "by"
+msgstr ""
+
+#: framework/post-meta.php:130
+msgid "No comments"
+msgstr ""
+
+#: framework/post-meta.php:130
+msgid "comments"
+msgstr ""
+
+#: framework/post-meta.php:212
+#, php-format
+msgid "%s minute read"
+msgid_plural "%s minute read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/post-meta.php:235
+msgid "view"
+msgid_plural "views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/template-tags.php:29
+msgid "Posts by tag"
+msgstr ""
+
+#: framework/template-tags.php:34
+msgid "Posts by author"
+msgstr ""
+
+#: framework/template-tags.php:39
+msgid "Posts by year"
+msgstr ""
+
+#: framework/template-tags.php:44
+msgid "Posts by month"
+msgstr ""
+
+#: framework/template-tags.php:49
+msgid "Posts by day"
+msgstr ""
+
+#: framework/template-tags.php:59
+msgid "Search Results for"
+msgstr ""
+
+#: framework/template-tags.php:65
+msgid "Page not found"
+msgstr ""
+
+#: framework/template-tags.php:204
+msgid "Next page"
+msgstr ""
+
+#: framework/template-tags.php:205
+msgid "Previous page"
+msgstr ""
+
+#: framework/template-tags.php:234
+msgid "View Post"
+msgstr ""
+
+#: framework/template-tags.php:262
+#, php-format
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/template-tags.php:311 framework/widgets/widget-about.php:90
+msgid "This feature requires the Basic Social Accounts plugin."
+msgstr ""
+
+#: framework/widgets/widget-about.php:22
+msgid "About us"
+msgstr ""
+
+#: framework/widgets/widget-about.php:33
+msgid "Display Image, Text and Social Accounts."
+msgstr ""
+
+#: framework/widgets/widget-about.php:35
+msgid "Authentic: About"
+msgstr ""
+
+#: framework/widgets/widget-about.php:131
+msgid "Subtitle"
+msgstr ""
+
+#: framework/widgets/widget-about.php:135
+msgid "Image URL"
+msgstr ""
+
+#: framework/widgets/widget-about.php:143
+msgid "Button URL"
+msgstr ""
+
+#: framework/widgets/widget-about.php:147
+msgid "Button Text"
+msgstr ""
+
+#: framework/widgets/widget-about.php:152
+msgid "Display list of social accounts"
+msgstr ""
+
+#: framework/widgets/widget-author.php:36
+msgid "Authentic: Author"
+msgstr ""
+
+#: framework/widgets/widget-author.php:106
+msgid "View Posts"
+msgstr ""
+
+#: framework/widgets/widget-author.php:190
+msgid "Display author’s avatar"
+msgstr ""
+
+#: framework/widgets/widget-author.php:194
+msgid "Display author’s name instead of widget title"
+msgstr ""
+
+#: framework/widgets/widget-author.php:198
+msgid "Display author’s description"
+msgstr ""
+
+#: framework/widgets/widget-author.php:202
+msgid "Display author’s social accounts"
+msgstr ""
+
+#: framework/widgets/widget-author.php:206
+msgid "Display post archive button"
+msgstr ""
+
+#: framework/widgets/widget-author.php:210
+msgid "Display on author’s posts only"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:38
+msgid "Display a list of your posts."
+msgstr ""
+
+#: framework/widgets/widget-posts.php:40
+msgid "Authentic: Posts"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:262
+msgid "List"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:263
+msgid "Numbered"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:281
+msgid "Number of Posts"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:286
+msgid "Order by"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:291
+msgid "Random"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:297
+msgid "Order"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:299
+msgid "Descending"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:300
+msgid "Ascending"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:306
+msgid "3 months"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:352
+msgid "Comments Count"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:355
+msgid "Compact Post Meta"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:357
+msgid "Display compact post meta"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:362
+msgid "Include only featured posts"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgid "Enter Keyword"
+msgstr ""
+
+#: template-parts/loop/content-none.php:14
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: template-parts/post/post-pagination.php:20
+msgid "Previous Article"
+msgstr ""
+
+#: template-parts/post/post-pagination.php:37
+msgid "Next Article"
+msgstr ""
+
+#: template-parts/site-search.php:20
+msgid "Input your search keywords and press Enter."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Authentic"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://codesupply.co/themes/authentic"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Wordpress Theme for Blogs & Magazines"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Code Supply Co."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://codesupply.co"
+msgstr ""

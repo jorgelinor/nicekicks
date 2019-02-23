@@ -1,0 +1,12 @@
+== Changelog ==
+
+= 1.1.1 - 2017-06-16 =
+* New - Added REST API Counter Mode.
+* New - Choose image for Pinterest share adding "csco-pinterest-cover" class for needed image.
+
+= 1.1.0 - 2017-05-10 =
+* New - Reddit share button.
+* New - Mail share button.
+* Fix - Viber buttton link.
+* Fix - Telegram buttton link.
+* Fix - WhatsApp buttton link.

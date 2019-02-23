@@ -1,0 +1,13 @@
+.visible-phone { display: none !important; }
+.visible-tablet { display: none !important; }
+.hidden-phone { }
+.hidden-tablet { }
+.hidden-desktop { display: none !important; }
+.visible-desktop { display: inherit !important; }
+
+@media screen and (max-width: 650px) {
+	.hidden-desktop { display: inherit !important; }
+	.visible-desktop { display: none !important; }
+	.visible-phone { display: inherit !important; }
+	.hidden-phone { display: none !important; }
+}

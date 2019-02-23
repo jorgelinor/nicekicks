@@ -1,0 +1,587 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-21 17:56+0300\n"
+"PO-Revision-Date: 2014-04-04 21:45+0100\n"
+"Language-Team: Code Supply Co.\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-basic-social-accounts-admin.php:87
+#: ../admin/class-basic-social-accounts-admin.php:104
+#: ../admin/class-basic-social-accounts-admin.php:124
+#: ../includes/basic-social-accounts-shortcode.php:44
+#: ../includes/basic-social-accounts-shortcode.php:72
+#: ../includes/class-basic-social-accounts-widget.php:23
+#: ../includes/class-basic-social-accounts-widget.php:35
+msgid "Social Accounts"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:98
+#: ../extra/class-social-connect.php:58
+msgid "You do not have sufficient rights to view this page."
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:111
+msgid "General"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:119
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:144
+msgid "Order"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:175
+msgid "Share Count Cache Interval"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:176
+msgid "minutes"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:180
+msgid "Link Target"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:182
+msgid "Open in same window"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:183
+msgid "Open in new window/tab"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:189
+msgid "Apply \"nofollow\" attribute"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:198
+#: ../extra/class-social-connect.php:105 ../extra/class-social-connect.php:120
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:204
+#: ../includes/class-basic-social-accounts-widget.php:108
+msgid "Title"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:209
+msgid "Label"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:234
+#: ../extra/class-social-connect.php:169
+msgid "Save changes"
+msgstr ""
+
+#: ../admin/class-basic-social-accounts-admin.php:295
+#: ../extra/class-social-connect.php:218
+msgid "The settings are saved."
+msgstr ""
+
+#: ../extra/class-social-connect.php:47 ../extra/class-social-connect.php:66
+msgid "Connect"
+msgstr ""
+
+#: ../extra/class-social-connect.php:111 ../extra/class-social-connect.php:147
+msgid "Instructions"
+msgstr ""
+
+#: ../extra/class-social-connect.php:178
+msgid "Reset cache"
+msgstr ""
+
+#: ../extra/class-social-connect.php:182
+msgid "The list of social network settings is empty!!!"
+msgstr ""
+
+#: ../extra/class-social-connect.php:241
+msgid "Cache successfully cleared."
+msgstr ""
+
+#: ../includes/basic-social-accounts-functions.php:178
+msgid "No social networks selected!"
+msgstr ""
+
+#: ../includes/basic-social-accounts-shortcode.php:29
+msgid "Account name is incorrect!"
+msgstr ""
+
+#: ../includes/basic-social-accounts-shortcode.php:80
+msgid "Labels"
+msgstr ""
+
+#: ../includes/basic-social-accounts-shortcode.php:86
+msgid "Titles"
+msgstr ""
+
+#: ../includes/basic-social-accounts-shortcode.php:92
+msgid "Counts"
+msgstr ""
+
+#: ../includes/basic-social-accounts-shortcode.php:102
+#: ../includes/class-basic-social-accounts-widget.php:125
+msgid "Template"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:23
+#: ../includes/basic-social-accounts-social-params.php:23
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:24
+msgid "Likes"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:27
+msgid "Facebook User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:34
+#: ../includes/basic-social-accounts-social-params.php:72
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:35
+#: ../includes/basic-social-accounts-social-list.php:46
+#: ../includes/basic-social-accounts-social-list.php:57
+#: ../includes/basic-social-accounts-social-list.php:68
+#: ../includes/basic-social-accounts-social-list.php:90
+#: ../includes/basic-social-accounts-social-list.php:101
+#: ../includes/basic-social-accounts-social-list.php:112
+#: ../includes/basic-social-accounts-social-list.php:123
+#: ../includes/basic-social-accounts-social-list.php:134
+#: ../includes/basic-social-accounts-social-list.php:145
+#: ../includes/basic-social-accounts-social-list.php:156
+#: ../includes/basic-social-accounts-social-list.php:167
+#: ../includes/basic-social-accounts-social-list.php:178
+#: ../includes/basic-social-accounts-social-list.php:189
+msgid "Followers"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:38
+msgid "Twitter User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:45
+#: ../includes/basic-social-accounts-social-params.php:54
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:49
+msgid "Instagram User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:56
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:60
+msgid "Pinterest User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:67
+#: ../includes/basic-social-accounts-social-params.php:96
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:71
+msgid "Google Plus ID"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:78
+#: ../includes/basic-social-accounts-social-params.php:117
+msgid "YouTube"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:79
+msgid "Subscribers"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:82
+msgid "YouTube User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:89
+#: ../includes/basic-social-accounts-social-params.php:182
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:93
+msgid "Vimeo User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:100
+#: ../includes/basic-social-accounts-social-params.php:138
+msgid "SoundCloud"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:104
+msgid "SoundCloud User ID"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:111
+msgid "Spotify"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:115
+msgid "Spotify User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:122
+#: ../includes/basic-social-accounts-social-params.php:162
+msgid "Dribbble"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:126
+msgid "Dribbble User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:133
+#: ../includes/basic-social-accounts-social-params.php:205
+msgid "Behance"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:137
+msgid "Behance User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:144
+#: ../includes/basic-social-accounts-social-params.php:225
+msgid "GitHub"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:148
+msgid "GitHub User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:155
+msgid "VK"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:159
+msgid "Page Name"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:166
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:170
+msgid "LinkedIn User"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:177
+msgid "Tumblr"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:181
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:188
+msgid "Bloglovin"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:192
+msgid "Bloglovin URL"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:199
+msgid "RSS"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:200
+msgid "Feed"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-list.php:203
+msgid "RSS URL"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:25
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:26
+msgid "Facebook App Secret"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:34
+msgid "Go to <a href=\"https://developers.facebook.com\" target=\"_blank\">developers.facebook.com</a> and click on <strong>Log In</strong> in the top right.  Log in using your personal Facebook credentials."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:35
+msgid "<em><strong>Note:</strong> You cannot log in to the Developer site using a Facebook Page or Business account. You must use the username and password from your personal Facebook profile. Facebook doesn't allow businesses to register as developers, only individuals.</em>"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:37
+msgid "If this is your first time signing in to the Facebook Developer portal then click on <strong>Register</strong>. Registering is a quick an easy process which will take less than a couple of minutes.  If you're already registered then you can skip ahead to step 7."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:38
+msgid "Accept the Facebook terms and click <strong>Next</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:39
+msgid "Enter your phone number to confirm your account."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:40
+msgid "Facebook will send you an automated text message containing a confirmation code. Enter it in the box and click <strong>Register</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:41
+msgid "You're now registered as a Facebook Developer. Click <strong>Done</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:42
+msgid "Hover over <strong>My Apps</strong> and then click on <strong>Add a New App.</strong>"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:43
+msgid "Click on <strong>basic setup.</strong>"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:44
+msgid "Enter your <strong>App Name</strong>. This can be anything you like. Choose a <strong>Category</strong>. Click <strong>Continue</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:45
+msgid "Complete the Security Check and click <strong>Submit</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:46
+msgid "Your App should now be set up. Copy and paste your <strong>App ID</strong> and <strong>App Secret</strong> into the setting fields."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:56
+msgid "Instagram Token"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:63
+msgid "Go to <a href=\"http://instagram.pixelunion.net/\" target=\"_blank\">instagram.pixelunion.net</a> and click on <strong>Generate Access Token</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:64
+msgid "Copy and paste your <strong>Access token</strong> into the setting field.</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:74
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:75
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:76
+msgid "Twitter Access Token"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:77
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:84
+msgid "Go to <a href=\"https://apps.twitter.com/app/new\" target=\"_blank\">apps.twitter.com/app/new</a> and log in, if necessary."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:85
+msgid "Enter your desired Application Name, Description and your website address making sure to enter the full address including the http://. You can leave the callback URL empty."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:86
+msgid "Accept the TOS and submit the form by clicking the <strong>Create your Twitter Application</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:87
+msgid "After creating your Twitter Application click on the tab that says Keys and Access Tokens, then you have to give access to your Twitter Account to use this Application. To do this, click the <strong>Create my Access Token</strong> button."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:88
+msgid "Lastly copy the Consumer key (API key), Consumer Secret, Access Token and Access Token Secret from the screen into our setting fields."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:98
+msgid "Google Key"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:105
+#: ../includes/basic-social-accounts-social-params.php:126
+msgid "Navigate to the <a href=\"https://console.developers.google.com/\" target=\"_blank\">Google Developers Console</a>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:106
+#: ../includes/basic-social-accounts-social-params.php:127
+msgid "From the top Project menu select <strong>Create project</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:107
+#: ../includes/basic-social-accounts-social-params.php:128
+msgid "Give your project a name, agree to the terms, then click <strong>Create</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:108
+#: ../includes/basic-social-accounts-social-params.php:129
+msgid "Select Credentials under API Manager in the left-hand menu, click <strong>Create credentials</strong>, then select <strong>API key</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:109
+#: ../includes/basic-social-accounts-social-params.php:130
+msgid "On the <strong>API key created</strong> popup, select and copy (Cmd-C or Ctrl-C) your newly created API key."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:119
+msgid "YouTube Key"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:140
+msgid "SoundCloud Client ID"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:148
+msgid "<strong>Register Your App and Obtain API Credentials with SoundCloud.</strong>"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:149
+msgid "<em>SoundCloud doesn't have an automated process to register your app. Only after SoundCloud approves your application you will be able to use the your app.</em>"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:150
+msgid "Navigate to the <a href=\"http://developers.soundcloud.com/\" target=\"_blank\">SoundCloud Developer Portal</a>. Using the navigation menu on the right side, click on <strong>Register a new app</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:151
+msgid "You will be asked to fill out a Developer Application (which is a Google Forms document) that provides SoundCloud information about your Client."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:152
+msgid "Once you have completed and submitted your application, you will be contacted by the SoundCloud team with further instructions on how to proceed. Only at this point will you be given the appropriate API credentials to complete the integration."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:154
+msgid "<strong>Set Up a SoundCloud.</strong><br> Once your Client has been added to your SoundCloud account, you can get the Client ID."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:164
+msgid "Dribbble Token"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:171
+msgid "Go to <a href=\"https://dribbble.com/account/applications/new\" target=\"_blank\">this</a> page."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:172
+msgid "Enter all of the information (For \"callback URL\" you can just enter your domain name)."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:173
+msgid "Click <strong>Register application</strong> button."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:174
+msgid "Find and copy the <strong>Client Access Token</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:184
+msgid "Vimeo Token"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:191
+msgid "Log into Vimeo Apps here: <a href=\"https://developer.vimeo.com/apps\" target=\"_blank\">developer.vimeo.com/apps</a>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:192
+msgid "Click on the <strong>Create New App</strong> button."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:193
+msgid "Fill out the app Name, Description, URL fields. These fields are required."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:194
+msgid "Accept the TOS and click on the <strong>Create App</strong> button."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:195
+msgid "You'll land on your App's administrative page. Click the <strong>Authentication</strong> tab."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:196
+msgid "Scroll down to the <strong>Generate a New Access Token</strong> section. Click the <strong>Generate Token</strong> button."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:197
+msgid "Your access token will be created below. Copy and paste the access token into the setting field."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:207
+msgid "Behance Client ID"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:214
+msgid "Go to <a href=\"https://www.behance.net/dev/apps\" target=\"_blank\">www.behance.net/dev/apps</a>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:215
+msgid "Click on the <strong>Register a new app</strong>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:216
+msgid "Fill out the app Name, Website, Description fields."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:217
+msgid "Copy and paste the <strong>client id</strong> into the setting field."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:227
+msgid "GitHub Client ID"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:228
+msgid "GitHub Client Secret"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:235
+msgid "Log into GitHub and go to <a href=\"https://github.com/settings/applications/new\" target=\"_blank\">Register new application</a>."
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:236
+msgid "Complete the information on this page then click <strong>Register application</strong>"
+msgstr ""
+
+#: ../includes/basic-social-accounts-social-params.php:237
+msgid "Once the application is registered, your app's <strong>Client Id</strong> and <strong>Client Secret</strong> will be displayed on the following page."
+msgstr ""
+
+#: ../includes/class-basic-social-accounts-widget.php:33
+msgid "A list of social media accounts with counters."
+msgstr ""
+
+#: ../includes/class-basic-social-accounts-widget.php:113
+msgid "Display labels"
+msgstr ""
+
+#: ../includes/class-basic-social-accounts-widget.php:117
+msgid "Display titles"
+msgstr ""
+
+#: ../includes/class-basic-social-accounts-widget.php:121
+msgid "Display counts"
+msgstr ""
+
+#: ../includes/class-basic-social-accounts-widget.php:143
+msgid "Social Settings"
+msgstr ""

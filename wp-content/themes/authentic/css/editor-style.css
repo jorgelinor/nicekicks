@@ -1,0 +1,527 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'icons';
+  src: url("fonts//icons.eot");
+  src: url("fonts//icons.eot#iefix") format("embedded-opentype"),
+         url("fonts//icons.ttf") format("truetype"),
+         url("fonts//icons.woff") format("woff"),
+         url("fonts//icons.svg#icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fb-messenger:before {
+  content: "";
+}
+
+.icon-arrow-down:before {
+  content: "";
+}
+
+.icon-arrow-left:before {
+  content: "";
+}
+
+.icon-arrow-right:before {
+  content: "";
+}
+
+.icon-arrow-up:before {
+  content: "";
+}
+
+.icon-chevron-down:before {
+  content: "";
+}
+
+.icon-chevron-left:before {
+  content: "";
+}
+
+.icon-chevron-right:before {
+  content: "";
+}
+
+.icon-chevron-up:before {
+  content: "";
+}
+
+.icon-cross:before {
+  content: "";
+}
+
+.icon-instagram:before {
+  content: "";
+}
+
+.icon-telegram:before {
+  content: "";
+}
+
+.icon-reddit:before {
+  content: "";
+}
+
+.icon-eye:before {
+  content: "";
+}
+
+.icon-mail:before {
+  content: "";
+}
+
+.icon-email:before {
+  content: "";
+}
+
+.icon-ribbon:before {
+  content: "";
+}
+
+.icon-image:before {
+  content: "";
+}
+
+.icon-clock:before {
+  content: "";
+}
+
+.icon-video:before {
+  content: "";
+}
+
+.icon-heart:before {
+  content: "";
+}
+
+.icon-bloglovin:before {
+  content: "";
+}
+
+.icon-search:before {
+  content: "";
+}
+
+.icon-reply:before {
+  content: "";
+}
+
+.icon-circle-plus:before {
+  content: "";
+}
+
+.icon-repeat:before {
+  content: "";
+}
+
+.icon-speech-bubble:before {
+  content: "";
+}
+
+.icon-line:before {
+  content: "";
+}
+
+.icon-share:before {
+  content: "";
+}
+
+.icon-bag:before {
+  content: "";
+}
+
+.icon-cart:before {
+  content: "";
+}
+
+.icon-plus:before {
+  content: "";
+}
+
+.icon-minus:before {
+  content: "";
+}
+
+.icon-delete:before {
+  content: "";
+}
+
+.icon-menu:before {
+  content: "";
+}
+
+.icon-ellipsis:before {
+  content: "";
+}
+
+.icon-angle-down:before {
+  content: "";
+}
+
+.icon-angle-left:before {
+  content: "";
+}
+
+.icon-angle-right:before {
+  content: "";
+}
+
+.icon-angle-up:before {
+  content: "";
+}
+
+.icon-behance:before {
+  content: "";
+}
+
+.icon-diamond:before {
+  content: "";
+}
+
+.icon-dribbble:before {
+  content: "";
+}
+
+.icon-facebook:before {
+  content: "";
+}
+
+.icon-feed:before {
+  content: "";
+}
+
+.icon-rss:before {
+  content: "";
+}
+
+.icon-get-pocket:before {
+  content: "";
+}
+
+.icon-pocket:before {
+  content: "";
+}
+
+.icon-google-plus:before {
+  content: "";
+}
+
+.icon-googleplus:before {
+  content: "";
+}
+
+.icon-linkedin:before {
+  content: "";
+}
+
+.icon-map-marker:before {
+  content: "";
+}
+
+.icon-phone:before {
+  content: "";
+}
+
+.icon-viber:before {
+  content: "";
+}
+
+.icon-pinterest:before {
+  content: "";
+}
+
+.icon-retweet:before {
+  content: "";
+}
+
+.icon-soundcloud:before {
+  content: "";
+}
+
+.icon-spotify:before {
+  content: "";
+}
+
+.icon-stumbleupon:before {
+  content: "";
+}
+
+.icon-tumblr:before {
+  content: "";
+}
+
+.icon-twitter:before {
+  content: "";
+}
+
+.icon-vimeo:before {
+  content: "";
+}
+
+.icon-vk:before {
+  content: "";
+}
+
+.icon-vkontakte:before {
+  content: "";
+}
+
+.icon-whatsapp:before {
+  content: "";
+}
+
+.icon-youtube:before {
+  content: "";
+}
+
+a {
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  color: #2c2f30;
+}
+
+@media (max-width: 767px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+blockquote {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+blockquote:before {
+  content: '\e009';
+  font-family: 'Icons';
+  display: block;
+  margin-bottom: 1rem;
+}
+
+blockquote cite {
+  font-style: normal;
+  display: block;
+  margin-top: 1rem;
+  font-weight: normal;
+  font-size: 1rem;
+  letter-spacing: 0;
+}
+
+blockquote > p:last-child {
+  margin-bottom: 0;
+}
+
+mark, .mark {
+  font-size: .75rem;
+  text-transform: uppercase;
+  padding: .25rem .5rem;
+}
+
+legend {
+  font-size: 1rem;
+}
+
+/**
+ * Content
+ * ----------------------------------------------------------------------------
+ */
+
+.alignleft {
+  float: left;
+  margin-top: .5rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.alignright {
+  float: right;
+  margin-top: .5rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.aligncenter {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.content figcaption {
+  font-size: .875rem;
+  color: #a0a0a0;
+  margin-top: 1rem;
+}
+
+.gallery .wp-caption-text:before {
+  display: none;
+}
+
+.content figure, .content img {
+  max-width: 100%;
+}
+
+.content p, .content img, .content figure, .content ul, .content ol,
+.content .gallery, .content .embed {
+  margin-bottom: 2rem;
+}
+
+.content li:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.content figure img {
+  margin-bottom: 0;
+}
+
+.content hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.content > *:last-child {
+  margin-bottom: 0 !important;
+}
+
+.content > *:first-child {
+  margin-top: 0;
+}
+
+.content .lead {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.content .dropcap {
+  text-align: left;
+}
+
+.content .dropcap:first-letter {
+  font-size: 2.5rem;
+  line-height: 1;
+  float: left;
+  display: block;
+  text-align: center;
+  margin-right: 2rem;
+  margin-bottom: 1rem;
+  color: black;
+  margin-top: .5rem;
+}
+
+.content .dropcap-bg-inverse:first-letter,
+.content .dropcap-bg-dark:first-letter {
+  padding: .5rem 1rem;
+}
+
+.content .dropcap-bg:first-letter, .content .dropcap-bg-light:first-letter {
+  padding: .5rem 1rem;
+}
+
+.content .dropcap-borders:first-letter {
+  border: 3px transparent solid;
+  margin-top: .25rem;
+  padding: .5rem 1rem;
+}
+
+.content .dropcap-border-right:first-letter {
+  border-right: 3px transparent solid;
+  padding-right: 2rem;
+}
+
+.content .content-block {
+  margin-bottom: 2rem;
+}
+
+.content .content-block > *:last-child {
+  margin-bottom: 0;
+}
+
+.content .block-float-left {
+  display: inline-block;
+  max-width: 50%;
+  float: left;
+  margin-right: 2rem;
+}
+
+.content .block-float-right {
+  display: inline-block;
+  max-width: 50%;
+  float: right;
+  margin-left: 2rem;
+}
+
+.content .block-border-left {
+  padding-left: 2rem;
+  border-left: 3px transparent solid;
+}
+
+.content .block-border-right {
+  padding-right: 2rem;
+  border-right: 3px transparent solid;
+}
+
+.content .block-border-top:before {
+  content: '';
+  display: block;
+  width: 4rem;
+  height: 2px;
+  margin: 0 auto 2rem;
+}
+
+.content .block-border-bottom:after {
+  content: '';
+  display: block;
+  width: 4rem;
+  height: 2px;
+  margin: 2rem auto 0;
+}
+
+.content .block-border-all {
+  padding: 2rem;
+  border: 3px transparent solid;
+}
+
+.content .block-bg {
+  padding: 2rem;
+}
+
+.content .block-bg-dark:before, .content .block-bg-dark:after,
+.content .block-bg-inverse:before, .content .block-bg-inverse:after {
+  color: white !important;
+}
+
+.content p > a {
+  text-decoration: underline;
+}
+
+.mce-content-body {
+  max-width: 825px;
+  margin: 20px;
+}
+
+/*# sourceMappingURL=editor-style.css.map */

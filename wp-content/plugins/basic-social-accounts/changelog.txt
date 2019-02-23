@@ -1,0 +1,9 @@
+== Changelog ==
+
+= 1.1.1 - 2017-06-16 =
+* New - Added REST API Counter Mode.
+* New - YouTube channel support.
+* New - LinkedIn company profile.
+
+= 1.1.0 - 2017-05-26 =
+* Fix - Bloglovin, Tumblr and RSS links.

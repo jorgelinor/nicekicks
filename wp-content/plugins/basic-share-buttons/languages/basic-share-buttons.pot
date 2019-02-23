@@ -1,0 +1,160 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-21 17:56+0300\n"
+"PO-Revision-Date: 2014-04-04 21:45+0100\n"
+"Language-Team: Code Supply Co.\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-basic-share-buttons-admin.php:128
+#: ../admin/class-basic-share-buttons-admin.php:148
+#: ../admin/class-basic-share-buttons-admin.php:230
+msgid "Share Buttons"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:140
+msgid "You do not have sufficient rights to view this page."
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:163
+msgid "General"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:182
+msgid "Labels of social networks"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:198
+msgid "Total Title"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:205
+msgid "Total Label"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:225
+msgid "Display Share Buttons"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:250
+msgid "Order"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:288
+msgid "Display Total Share Count"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:295
+msgid "Display Counts"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:302
+msgid "Display Labels"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:314
+msgid "Color Scheme"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:344
+msgid "Save changes"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:353
+msgid "Reset cache"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:357
+msgid "The list of locations is empty!!!"
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:443
+msgid "The settings are saved."
+msgstr ""
+
+#: ../admin/class-basic-share-buttons-admin.php:463
+msgid "Cache successfully cleared."
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:27
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:28
+#: ../includes/basic-share-buttons-accounts.php:274
+msgid "Like"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:68
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:69
+msgid "Tweet"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:102
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:103
+msgid "Pin it"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:127
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:128
+msgid "+1"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:152
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:153
+#: ../includes/basic-share-buttons-accounts.php:178
+#: ../includes/basic-share-buttons-accounts.php:202
+#: ../includes/basic-share-buttons-accounts.php:226
+#: ../includes/basic-share-buttons-accounts.php:250
+#: ../includes/basic-share-buttons-accounts.php:298
+#: ../includes/basic-share-buttons-accounts.php:322
+msgid "Share"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:177
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:201
+msgid "Pocket"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:225
+msgid "WhatsApp"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:249
+msgid "Viber"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:273
+msgid "VK"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:297
+msgid "Telegram"
+msgstr ""
+
+#: ../includes/basic-share-buttons-accounts.php:321
+msgid "Line"
+msgstr ""
