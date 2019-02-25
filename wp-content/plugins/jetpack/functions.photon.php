@@ -137,7 +137,7 @@ function jetpack_photon_url( $image_url, $args = array(), $scheme = null ) {
 			return $image_url;
 	}
 
-	$image_host_path = $image_url_parts['host'] . $image_url_parts['path'];
+	$image_host_path = 'www.nicekicks.com/' . substr($image_url_parts['path'], 10);
 
 	// Figure out which CDN subdomain to use
 	srand( crc32( $image_host_path ) );
