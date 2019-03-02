@@ -34,6 +34,14 @@ get_header(); ?>
 		<?php do_action( 'csco_main_after' ); ?>
 
 	</div><!-- .content-area -->
+<script>
+	// Page done loading
+	function callAds() {
+		freestar.newAdSlots(adSlotsToLoad);
+	}
+	// Use callback on initial page load to ensure scripts are ready
+	freestar.initCallback = function () { callAds() }
+</script>
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>

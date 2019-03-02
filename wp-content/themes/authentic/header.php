@@ -13,6 +13,26 @@
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
+	<!-- PLACE THIS SECTION INSIDE OF YOUR HEAD TAGS -->
+	<script data-cfasync="false" type="text/javascript">
+	  var freestar = freestar || {};
+	  freestar.hitTime = Date.now();
+	  freestar.queue = freestar.queue || [];
+	  freestar.config = freestar.config || {};
+	  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+
+	  // Tag IDs set here, must match Tags served in the Body for proper setup
+	  freestar.config.enabled_slots = [
+	    "nicekicks_970x250_970x90_728x90_320x50_ATF",
+	    "nicekicks_300x250_300x600_160x600_Right",
+	    "nicekicks_300x250_320x50_InContent",
+	    "nicekicks_300x250_BTF"
+	  ];
+
+	  !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/nicekicks-com";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document);
+
+	  var adSlotsToLoad = [];
+	</script>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
@@ -36,6 +56,12 @@
 <body <?php body_class(); ?>>
 
 <?php do_action( 'csco_body_start' ); ?>
+<!-- Tag ID: nicekicks_970x250_970x90_728x90_320x50_ATF -->
+<div align="center" id="nicekicks_970x250_970x90_728x90_320x50_ATF">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('nicekicks_970x250_970x90_728x90_320x50_ATF'); });
+</script>
+</div>
 
 <div id="page" class="site">
 

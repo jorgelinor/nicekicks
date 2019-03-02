@@ -18,6 +18,12 @@ if ( is_active_sidebar( $sidebar ) && 'layout-fullwidth' !== csco_get_page_layou
 
 		<div class="sidebar">
 			<?php do_action( 'csco_sidebar_start' ); ?>
+			<!-- Tag ID: nicekicks_300x250_300x600_160x600_Right -->
+			<div align="center" id="nicekicks_300x250_300x600_160x600_Right">
+			<script data-cfasync="false" type="text/javascript">
+			    freestar.queue.push(function () { googletag.display('nicekicks_300x250_300x600_160x600_Right'); });
+			</script>
+			</div>
 			<?php dynamic_sidebar( $sidebar ); ?>
 			<?php do_action( 'csco_sidebar_end' ); ?>
 		</div><!-- .sidebar -->

@@ -17,6 +17,12 @@
 
 			<?php if ( is_active_sidebar( 'sidebar-footer' ) ) { ?>
 				<div class="sidebar-footer">
+					<!-- Tag ID: nicekicks_300x250_BTF -->
+					<div align="center" id="nicekicks_300x250_BTF">
+					<script data-cfasync="false" type="text/javascript">
+					    freestar.queue.push(function () { googletag.display('nicekicks_300x250_BTF'); });
+					</script>
+					</div>
 					<?php dynamic_sidebar( 'sidebar-footer' ); ?>
 				</div>
 			<?php } ?>
